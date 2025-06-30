@@ -6,3 +6,4 @@ ECHOES’ mission is to set up the European Collaborative Cloud for Cultural Her
 
 ECHOES covers 15 EU member states but also ensures a wider representativeness and inclusivity thanks to several institutions associated to pan-European networks and initiatives. These institutions are active in a wide range of topics as such as language as social and cultural data, art, archaeology, museums, archives, libraries, monuments and sites, conservation-restoration, cultural management, media culture, digital cultural heritage, intangible heritage and more. In this way, all CH sectors are represented in ECHOES. Moreover, several universities, research institutions and companies operating at different scales with complementary skills have been selected to manage the building of the ECCCH platform.
 
+![image](https://github.com/user-attachments/assets/835e7cb5-a595-4a69-92d6-ba94ffaa6cfa)
